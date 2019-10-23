@@ -1,0 +1,12 @@
+{
+  "name": "gympoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "cucumber": "^6.0.2"
+  }
+}
